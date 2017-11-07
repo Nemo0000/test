@@ -1,0 +1,48 @@
+/* ::::: http://www.17sucai.com/preview/73136/2015-02-09/%E5%B8%AE%E5%B8%AE%E7%BD%91/css/select2.css ::::: */
+
+/* ::::: http://www.17sucai.com/preview/73136/2015-02-09/%E5%B8%AE%E5%B8%AE%E7%BD%91/css/style.css ::::: */
+
+* { padding: 0px; margin: 0px; text-decoration: none; border: medium none; list-style-type: none; }
+body { padding: 0px; margin: 0px; font-family: "宋体"; font-size: 12px; color: rgb(102, 102, 102); background: rgb(238, 238, 238) none repeat scroll 0% 0%; }
+img { border: 0px none; padding: 0px; margin: 0px; }
+a:hover { color: rgb(255, 102, 0); text-decoration: underline; }
+.bft_bg { background: rgba(0, 0, 0, 0) url('bft_bg.jpg') no-repeat scroll center top; }
+.top { width: 100%; height: 145px; background: rgba(0, 0, 0, 0) url('top_pp.jpg') repeat-x scroll 0% 0%; }
+.top_a { width: 1000px; height: 33px; line-height: 33px; margin: 1px auto; }
+.top_a3 { width: 500px; height: 33px; line-height: 33px; float: left; }
+.top_a1 { width: 252px; height: 16px; margin-top: 8px; float: right; }
+.top_a2 { float: left; margin-left: 17px; height: 16px; overflow: hidden; }
+.top_bg { width: 100%; height: 108px; margin: 2px auto 0px; background: rgba(0, 0, 0, 0) url('top_pic.jpg') no-repeat scroll center center; }
+.top_bga { width: 1000px; height: 108px; margin: auto; }
+.top_bga_1 { width: 1000px; height: 69px; }
+.top_bga_2 { width: 1000px; height: 39px; }
+.top_bga_2 ul a li { width: 110px; height: 39px; line-height: 39px; font-family: "微软雅黑"; font-size: 20px; text-align: center; color: rgb(255, 255, 255); float: right; margin-right: 2px; }
+.top_bga_2 ul a:hover li { background: rgb(42, 155, 218) none repeat scroll 0% 0%; }
+.center_blank { width: 100%; height: 10px; }
+.nr { width: 1000px; margin: auto; }
+.blank { width: 100%; height: 10px; float: left; }
+.link { width: 998px; height: 50px; line-height: 50px; font-size: 14px; font-weight: bold; border: 1px solid rgb(217, 217, 217); background: rgb(255, 255, 255) url('link_pp.jpg') no-repeat scroll left top; float: left; }
+.link_a { width: 110px; height: 50px; float: left; }
+.link_b { width: 888px; height: 50px; float: left; }
+.link_b li { float: left; width: 105px; height: 30px; padding: 10px; }
+.button { width: 1000px; margin: auto; height: 76px; line-height: 30px; font-size: 15px; text-align: center; float: left; }
+.button a { color: rgb(54, 54, 54); }
+.button a:hover { color: rgb(255, 102, 0); }
+#maskLayer { position: absolute; left: 0px; top: 0px; }
+#alphadiv { position: absolute; background: rgb(0, 0, 0) none repeat scroll 0% 0%; z-index: 2000; }
+#drag { position: absolute; background: rgb(255, 255, 255) none repeat scroll 0% 0%; z-index: 2001; width: 580px; border: 1px solid rgb(204, 204, 204); }
+#drag_h { line-height: 28px; height: 28px; cursor: move; color: rgb(255, 255, 255); background: rgb(255, 102, 0) none repeat scroll 0% 0%; border-bottom: 1px dashed rgb(186, 188, 188); padding: 0px 10px; margin-top: 0px; }
+#btn_nation { background: rgb(244, 244, 244) none repeat scroll 0% 0%; color: rgb(255, 102, 0); height: 28px; line-height: 28px; border: medium none; cursor: pointer; }
+.bft_f { width: 1000px; border-top: 1px solid rgb(238, 117, 16); background: rgb(255, 255, 255) none repeat scroll 0% 0%; float: left; }
+.bft_f_1 { width: 1000px; height: 43px; background: rgb(243, 243, 243) none repeat scroll 0% 0%; float: left; }
+.bft_f_1 li { width: 200px; height: 43px; line-height: 43px; font-weight: bold; float: left; text-indent: 20px; color: rgb(54, 54, 54); letter-spacing: 2px; }
+.bft_f_2 { width: 1000px; height: 43px; float: left; font-size: 12px; }
+.bft_f_2 li { width: 200px; height: 46px; line-height: 48px; border-bottom: 1px solid rgb(237, 238, 240); float: left; text-indent: 20px; color: rgb(102, 102, 102); overflow: hidden; }
+.bft_f_2 span { font-size: 14px; color: rgb(0, 84, 152); }
+.bft_f_2 img { margin-top: 13px; margin-left: 30px; }
+.bft_f_3 { width: 600px; height: 51px; float: left; font-size: 16px; margin-left: 200px; }
+.bft_f_3 li { float: left; width: 100px; text-align: center; height: 51px; line-height: 60px; }
+.bft_f_3 a { color: rgb(102, 102, 102); }
+.bft_f_3 a:hover { color: rgb(255, 102, 0); }
+.bft_f_3 span { color: rgb(255, 102, 0); font-weight: bold; }
+.submenu { display: none; font-size: 14px; height: 67px; width: 1000px; background: rgba(0, 0, 0, 0) url('bft_search1.jpg') no-repeat scroll center top; margin-bottom: 10px; float: left; }
